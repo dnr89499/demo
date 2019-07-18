@@ -1,14 +1,31 @@
+[{
+    "ID": "001",
+   "Name": "Eurasian Collared-Dove",
+    "Type": "Dove",
+    "Scientific Name": "Streptopelia"
+},
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
+    "ID": "002",
+    "Name": "Bald Eagle",
+    "Type": "Hawk",
+    "Scientific Name": "Haliaeetus leucocephalus" 
+},
+{
+    "ID": "003",
+    "Name": "Cooper's Hawk",
+    "Type": "Hawk",
+    "Scientific Name": "Accipiter cooperii" 
+},
+{
+    "ID": "004",
+    "Name": "owl",
+    "Type": "Hawk",
+    "Scientific Name": "Accipiter cooperii" 
+
+},
+{
+    "ID": "005",
+    "Name": "Eagle",
+    "Type": "Hawk",
+    "Scientific Name": "Haliaeetus"    
+}]
